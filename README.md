@@ -4,7 +4,7 @@ I am Kristian, co-founder and Head of Customer Success at [Vespa.ai](https://ves
 I have 20+ years working with Vespa application owners, developers, PMs, Ops -
 passionate about operations, cost, and serving quality!
 
-![Vespa logo](https://vespa.ai/assets/vespa-logo-color.png)
+![Vespa logo](https://vespa.ai/assets/logo.png)
 
 Most of my work is in the [vespa-engine](https://github.com/vespa-engine) organization,
 where we develop Vespa, the Apache 2.0-licensed open source big data serving engine.
